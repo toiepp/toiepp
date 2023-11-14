@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, my name is **Mikholskiy Ivan**, I'm from Moscow, Russia and I consider myself as a **Junior Java Developer**.
+
 <!--
 **toiepp/toiepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
